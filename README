@@ -1,0 +1,42 @@
+This is CSC384 2022W Assignment.
+
+Overview:
+1. The coding style may look weird:
+  a. Thanks for LLVM, I'm using capital name for all variables
+  b. Thanks to the useless teaching team who teaches you how to optimize python
+     programs, I'm trying to manually do some compiler level optimizations.
+     Don't do it :) No one will ask you to optimize python in the real world :)
+2. Don't copy my code :)
+
+Lab1:
+All test cases passed. Read the code for details. The test folder contains all
+the test cases.
+
+Lab2:
+One test case failed. This is because my heuristic is not strong enough to get
+the expect move. However, I suggest don't spend too much time working on this
+toy heuristic. It's a math problem which also requires experience on playing
+checkers. This is beyond the course and you will not learn any transferrable
+knowledge from doing it.
+In addition, iterative deepening helps you make use of all the given searching
+time.
+
+Lab3:
+All test cases passed.
+CSP. It's a ship-based model. Don't use cell-based model as it takes forever.
+My implementation is not even optimized and I used zero heuristic to accelerate
+the searching speed, but it's already fast enough. Don't spend more time on it,
+you don't need to use any advanced optimization such as GAC. Again, not worth.
+It's not transferrable.
+
+Lab4:
+92% over all test cases.
+I'm pretty sure I was not told I need to deal with stats techniques before I got
+enrolled in this course. This is probably the easiest lab. Since I've got enough
+marks from previous labs, I didn't even think about how to partition sentences
+but only used ".", "!" and "?". The accuracy can be improved by implementing a
+more reasonable sentence partition mechanism.
+
+If you are taking this course: good luck! Because you will not have fun :(
+If you haven't taken this course yet: don't take this course. There are a lot of
+better courses you can take, with some more realistic course assignments.

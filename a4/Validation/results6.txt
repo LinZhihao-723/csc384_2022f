@@ -1,0 +1,18 @@
+Line 27: expected <So : CJS> but got <So : AV0>
+Line 169: expected <So : CJS> but got <So : AV0>
+Line 190: expected <up : AVP> but got <up : AVP-PRP>
+Line 323: expected <little : AJ0> but got <little : AV0>
+Line 396: expected <one : PNI> but got <one : CRD>
+Line 446: expected <terrified : VVN-AJ0> but got <terrified : AJ0>
+Line 472: expected <as : AV0> but got <as : PRP>
+Line 483: expected <present : NN1> but got <present : AJ0-NN1>
+Line 508: expected <only : AV0> but got <only : AV0-AJ0>
+Line 591: expected <as : CJS> but got <as : PRP>
+Line 628: expected <there : AV0> but got <there : EX0>
+Line 660: expected <just : AV0> but got <just : AV0-AJ0>
+Line 705: expected <as : CJS> but got <as : PRP>
+Line 730: expected <when : CJS-AVQ> but got <when : CJS>
+Line 765: expected <have : VHB> but got <have : VHI>
+Line 808: expected <make : VVI> but got <make : VVB>
+Total words seen: 834.
+Total matches: 818.

@@ -1,0 +1,7 @@
+Line 11: expected <before : CJS> but got <before : PRP>
+Line 38: expected <New : NP0> but got <New : AJ0>
+Line 57: expected <straight : AV0-AJ0> but got <straight : AV0>
+Line 58: expected <on : PRP> but got <on : AVP>
+Line 165: expected <off : PRP> but got <off : PRP-AVP>
+Total words seen: 202.
+Total matches: 197.
