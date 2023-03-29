@@ -9,7 +9,15 @@ Overview:
      programs, I'm trying to manually do some compiler level optimizations.
      Don't do it :) No one will ask you to optimize python in the real world :)
 2. Don't copy my code :)
-
+3. As the author of APS105 Reversi TA_Exellent solution (which is one of the
+   most powerful solutions over past ten years across thoudsands of solutions), 
+   I'm pretty confident to say that I know how to implement and optimize an 
+   Alpha-beta based board game AI. And as a matter of fact, I lost marks on the
+   second lab, which is a perfect evidence of how this course looks like a joke.
+   Well, you can say I'm bad, but I guess I'm better than the marking TAs who
+   marked hundreds of papers but didn't even notice their hand-derived game 
+   tree solution was absolutely wrong LOL
+   
 Lab1:
 All test cases passed. Read the code for details. The test folder contains all
 the test cases.
